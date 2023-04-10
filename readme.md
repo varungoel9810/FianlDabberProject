@@ -1,1 +1,0 @@
-Hi this is our project on Dapper orm where we have created an CRUD application using .Netcore API
